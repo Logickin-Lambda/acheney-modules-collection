@@ -5,7 +5,7 @@ Since acheney is currently taking a break on SunVox, and his content is currentl
 
 They are all MIT licensed, so you can use and modify freely as you want. In fact, I decided to help him to update some of the modules since I find many of them have some merits, but they are a bit old and the control can be further simplified so that beginners can use them easily. Thus, stay tune, and soar beyond! Hopefully, I can make some great update with his collection, or if you have some neat update for the module, feel free to submit a pull request or found me in the SunVox discord group.
 
-# abstract (original by acheney)
+# abstract
 
 here are all the sunvox modules i've made. they are sorted based on sunvox's own module library. documentation can be found here: https://acheney.xyz/sunvox/modules/docs
 
